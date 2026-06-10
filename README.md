@@ -6,9 +6,12 @@
 
 -   **Explore Destinations**: Browse a curated collection of 245+ destinations categorized by Heritage, Nature, Spiritual, and Adventure.
 -   **Interactive Discovery**: Filter destinations by region (North, South, East, West) to find hidden gems.
--   **Plan Your Trip**: Use our planning tools to create the perfect itinerary.
+-   **Plan Your Trip**: Use planning tools to create the perfect itinerary.
 -   **Admin Dashboard**: A secure interface for managing destination data (add, edit, delete locations).
 -   **Responsive Design**: A seamless experience across all devices, from desktops to mobile phones.
+-   **Smooth animations** via Framer Motion
+-   **Regional filtering** — browse by North, South, East, or West India
+
 
 ## 🛠️ Tech Stack
 
